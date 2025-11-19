@@ -1,2 +1,2 @@
 # tarot
-tarot written in C++ with SFML. only for triangle card shape.
+tarot written in C++ with SFML3. only for triangle card shape.
